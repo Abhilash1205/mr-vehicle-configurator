@@ -98,26 +98,7 @@ git clone https://github.com/yourusername/mr-vehicle-configurator.git
 - **Right-click + Mouse** - Look around
 - **Mouse Click** - UI interaction
 
-## 📸 Screenshots
 
-> Add screenshots of your app here:
-> - Vehicle selection screen
-> - Color customization
-> - Door animation demo
-> - Full showroom view
-
-## 🗺️ Roadmap
-
-- [x] Core vehicle placement
-- [x] Color customization system
-- [x] Door animations (GLC)
-- [x] Sound effects integration
-- [x] Showroom lighting
-- [ ] Wheel style switching
-- [ ] Camera orbit controls
-- [ ] Interior customization
-- [ ] Save/load configurations
-- [ ] Hand tracking gestures
 
 ## 📝 Known Issues
 
