@@ -137,7 +137,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🎥 Demo Video
-[Watch Demo on YouTube]([https://www.youtube.com/watch?v=ABC123XYZ](https://youtu.be/OOYYUikdA0w))
+
+[![MR Vehicle Configurator Demo]([https://img.youtube.com/vi/ABC123XYZ/maxresdefault.jpg)](https://www.youtube.com/watch?v=ABC123XYZ](https://youtu.be/OOYYUikdA0w))
+
+*Click to watch the full demo on YouTube*
 - Sound effects: Mixkit, Freesound
 - UI Icons: Flaticon
 
