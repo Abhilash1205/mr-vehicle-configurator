@@ -134,7 +134,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🎥 Demo Video
 
-[![MR Vehicle Configurator Demo]([https://img.youtube.com/vi/ABC123XYZ/maxresdefault.jpg)](https://www.youtube.com/watch?v=ABC123XYZ](https://youtu.be/OOYYUikdA0w))
+[![MR Vehicle Configurator Demo](https://img.youtube.com/vi/OOYYUikdA0w/maxresdefault.jpg)](https://www.youtube.com/watch?v=OOYYUikdA0w)
 
 *Click to watch the full demo on YouTube*
 - Sound effects: Mixkit, Freesound
