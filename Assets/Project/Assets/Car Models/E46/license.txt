@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Car - BMW E46 1998
+* source:	https://sketchfab.com/3d-models/low-poly-car-bmw-e46-1998-d9bfd8126e754164b48ded833c017bbf
+* author:	ROH3D (https://sketchfab.com/roh3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Car - BMW E46 1998" (https://sketchfab.com/3d-models/low-poly-car-bmw-e46-1998-d9bfd8126e754164b48ded833c017bbf) by ROH3D (https://sketchfab.com/roh3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
