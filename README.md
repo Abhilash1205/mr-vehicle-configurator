@@ -136,16 +136,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👤 Author
-
-**Your Name**
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-
-## 🙏 Acknowledgments
-
-- Mercedes 3D models: [Source/Artist Name]
+## 🎥 Demo Video
+[Watch Demo on YouTube]([https://www.youtube.com/watch?v=ABC123XYZ](https://youtu.be/OOYYUikdA0w))
 - Sound effects: Mixkit, Freesound
 - UI Icons: Flaticon
 
