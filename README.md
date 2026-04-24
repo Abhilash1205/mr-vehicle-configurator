@@ -106,10 +106,6 @@ git clone https://github.com/yourusername/mr-vehicle-configurator.git
 > - Door animation demo
 > - Full showroom view
 
-## 🎥 Demo Video
-
-> Link to demo video (YouTube/Vimeo)
-
 ## 🗺️ Roadmap
 
 - [x] Core vehicle placement
